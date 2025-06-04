@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Blockchain-based crowdfunding platform: `FundVerse`
+# Blockchain-based crowdfunding platform: `FundZero`
 
-**FundVerse** is a blockchain-based decentralized platform that combines social interactions with crowdfunding mechanisms, allowing any user to raise funds while becoming popular in the social network. Being **built over the Ethereum blockchain**, FundVerse is structured as a Decentralized Application **(DApp)**, that fosters crowdfunding without the intervention of any central authority,and recognizes the active role of donors, enabling them to support artists or projects as well as humanity use cases.
+**FundZero** is a blockchain-based decentralized platform that combines social interactions with crowdfunding mechanisms, allowing any user to raise funds while becoming popular in the social network. Being **built over the Ethereum blockchain**, FundVerse is structured as a Decentralized Application **(DApp)**, that fosters crowdfunding without the intervention of any central authority,and recognizes the active role of donors, enabling them to support artists or projects as well as humanity use cases.
 
 
 ## Why blockchain based crowdfunding?
@@ -35,7 +35,7 @@ To Install and run this Blockchain based crowdfunding platform locally, one must
 
 **Clone the repository:**
 
-         https://github.com/thekiranmahajan/FundVerse.git
+         https://github.com/thekiranmahajan/Fundzero.git
 
 **Navigate to the web3 repository:**
 
@@ -71,14 +71,6 @@ To use this DApp user must have an extension called [Metamask](https://metamask.
 - The platform allows users to track the amount raised and days left for each campaign whereas, it includes functionality to track and display the number of donations made to a specific campaign, providing transparency and accountability.
 - The ability to track the progress of campaign creation and view multiple campaign cards created by different users adds transparency and visibility to the crowdfunding platform.
 
-## Credits:
-
-https://github.com/adrianhajdin/project_crowdfunding
-
-## Contributor:
-
-1.	https://github.com/thekiranmahajan
-2.	https://github.com/thesakshijaiswal
 =======
 # fundzero
 >>>>>>> 44280b61411e954ff39b97aad3d585cd416a1d7d
